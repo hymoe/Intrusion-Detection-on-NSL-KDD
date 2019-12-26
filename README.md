@@ -1,4 +1,4 @@
-## IDS_KDD
+# Intrusion-Detection-on-NSL-KDD
 
 本项目复现论文《An Intrusion Detection System Using a Deep Neural Network with Gated Recurrent Units》（DOI：10.1109/ACCESS.2018.DOI）
 
