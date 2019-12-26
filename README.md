@@ -4,6 +4,8 @@
 
 **注意本人不是论文原作者！**
 
+**Note that I am not the original author of the paper!**
+
 代码基于Keras编写。
 
 ### 基于Docker的配置（非必须）
@@ -34,7 +36,7 @@ https://www.unb.ca/cic/datasets/nsl.html
 
 https://towardsdatascience.com/a-deeper-dive-into-the-nsl-kdd-data-set-15c753364657
 
-### 使用方法：
+### 使用方法（Usage）：
 
 `python3 run.py`
 
